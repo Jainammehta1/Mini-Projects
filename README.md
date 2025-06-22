@@ -19,3 +19,12 @@ To try out different languages and tools
 To gain experience and add to my coding portfolio
 
 I will keep updating this repo as I continue learning.
+
+## 📬 Contact
+
+Feel free to connect or collaborate!
+
+- 📧 Email: [jainamm88@gmail.com]
+- 🌐 GitHub: [Jainammehta1](https://github.com/Jainammehta1)
+- 🔗 LinkedIn: [Jainam Mehta](https://www.linkedin.com/in/jainam-mehta-0a38a9288)
+- 📍 Mumbai, India
